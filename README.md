@@ -2,10 +2,10 @@
 
 ## Development Tools
 
-1.OpenCV 3.4.1
-2.Numpy for python
-3.Python 2.7
-4.Matplotlib for python (optional)
+1. OpenCV 3.4.1
+2. Numpy for python
+3. Python 2.7
+4. Matplotlib for python (optional)
 
 ## Introduction
 
