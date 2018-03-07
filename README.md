@@ -1,5 +1,12 @@
 # FacialRecognition
 
+## Development Tools
+
+1.OpenCV 3.4.1
+2.Numpy for python
+3.Python 2.7
+4.Matplotlib for python (optional)
+
 ## Introduction
 
 Simple Python implementation on Facial Recognition with OpenCV3, modified by Yun Liu.
